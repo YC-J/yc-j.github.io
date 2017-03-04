@@ -1,24 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[HeluvsJ Blog]]></title>
   <link href="http://yc-j.github.io/atom.xml" rel="self"/>
   <link href="http://yc-j.github.io/"/>
-  <updated>2017-03-01T09:18:24+09:00</updated>
+  <updated>2017-03-05T01:25:55+09:00</updated>
   <id>http://yc-j.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[JO]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Test]]></title>
+    <title type="html"><![CDATA[ドラマチームワークショップ(20170305)]]></title>
     <link href="http://yc-j.github.io/blog/2017/03/01/test/"/>
     <updated>2017-03-01T09:01:52+09:00</updated>
     <id>http://yc-j.github.io/blog/2017/03/01/test</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h2>演劇とは</h2>
+
+<ul>
+<li>演劇の3要素
+
+<ul>
+<li>舞台、観客、役者(舞台、観客、脚本という人もいる)</li>
+</ul>
+</li>
+<li>演劇の目的
+
+<ul>
+<li>演劇の目的は見る人々にカタルシスを感じさせるためである
+
+<ul>
+<li>カタルシスとは
+
+<ul>
+<li>感情の排泄、心の中に積まれていた不安、憂鬱、緊張などの感情がほぐれ、心が浄化されること</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>演劇の起源
+
+<ul>
+<li>ティオニソスを礼拝するために誕生したギリシャの演劇が世界の演劇の起源</li>
+<li>ティオニソスはギリシャ神話に登場する豊穣とブドウ酒と酩酊の神</li>
+</ul>
+</li>
+<li>間違っているところ
+
+<ul>
+<li>神様が我々にタラントをくれたのは神様を賛美、礼拝するために、つまり神様のために使うためにタラントを与えてくれたが最初から偶像礼拝に使われたものなのでこれからはちゃんと神様のために使わなきゃならないのである</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>ドラマチームとしての演劇</h2>
+
+<ul>
+<li>目的
+
+<ul>
+<li>演劇を通してカタルシスではなくイエスキリストの愛と福音を伝えるべき</li>
+<li>演劇が礼拝の一部として神様を褒め称えることである</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>役者</h2>
+
+<ul>
+<li>演技というのは簡単に分けるとアクションとリアクションになる</li>
+<li>ボールパスゲーム</li>
+<li>エチュードとは
+
+<ul>
+<li>ロシアのスタニスラブスキーが作った役者トレイニングシステム</li>
+<li>即興演技は決められた脚本や事前約束なしで役者の即興で作られる演技</li>
+<li>役者たちが即興演技トレイニングを通して自分の演技力と創造力、想像力を成長させ、広げることができる。即興演技での想像力は役者に創造的な空想を刺激することができるし、この空想は役者の情緒や感情的な記憶を呼び出してたまには役者の意識が及ぶ範囲を超えて無意識に隠された前の経験の記憶まで呼び出すこともできる</li>
+</ul>
+</li>
+</ul>
+
 ]]></content>
   </entry>
   
