@@ -4,7 +4,7 @@
   <title><![CDATA[HeluvsJ Blog]]></title>
   <link href="http://yc-j.github.io/atom.xml" rel="self"/>
   <link href="http://yc-j.github.io/"/>
-  <updated>2017-03-05T01:44:01+09:00</updated>
+  <updated>2017-03-06T09:41:56+09:00</updated>
   <id>http://yc-j.github.io/</id>
   <author>
     <name><![CDATA[JO]]></name>
@@ -12,6 +12,186 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[アプリ制作の概要と流れ]]></title>
+    <link href="http://yc-j.github.io/blog/2017/03/06/mobile-application/"/>
+    <updated>2017-03-06T09:38:22+09:00</updated>
+    <id>http://yc-j.github.io/blog/2017/03/06/mobile-application</id>
+    <content type="html"><![CDATA[<h2>流れ</h2>
+
+<ul>
+<li>企画 → 開発 → テスト → 公開 → 保守</li>
+</ul>
+
+
+<h2>OS</h2>
+
+<ul>
+<li>iOS</li>
+<li>Android</li>
+<li>Windows Mobile</li>
+</ul>
+
+
+<h4>iOS</h4>
+
+<ul>
+<li>開発環境
+
+<ul>
+<li>Xcode</li>
+</ul>
+
+
+<p>  <img src="https://monosnap.com/file/UOIvKRUJC4pT6TLKeGwy3ZewatVXPC.png" alt="Alt text" /></p></li>
+<li>言語
+
+<ul>
+<li>Objective-C</li>
+<li>Swift</li>
+<li>2014年6月2日初公開以後、最初はObjective-Cが圧倒的に多かったがだんだんSwiftがObjective-Cのシェアを奪っている</li>
+<li>言語ランキング
+
+<ul>
+<li><a href="http://www.tiobe.com/tiobe-index/">http://www.tiobe.com/tiobe-index/</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>条件
+
+<ul>
+<li>Apple Storeでの公開には年間11,800円</li>
+</ul>
+</li>
+<li>Developer Site
+
+<ul>
+<li>Apple Developer</li>
+<li><a href="https://developer.apple.com/">https://developer.apple.com/</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Android</h4>
+
+<ul>
+<li>開発環境
+
+<ul>
+<li>Android Studio</li>
+</ul>
+
+
+<p>  <img src="https://monosnap.com/file/B541BKazhcBABBTKxRa7eBOZTsg06N.png" alt="Alt text" /></p>
+
+<ul>
+<li>Eclipse</li>
+</ul>
+
+
+<p>  <img src="https://monosnap.com/file/Kh6uBDEBUxaWkro6DiFIViPQwhztD2.png" alt="Alt text" /></p></li>
+<li>言語
+
+<ul>
+<li>Java</li>
+</ul>
+</li>
+<li>条件
+
+<ul>
+<li>Google Playでの公開には初回のみ25ドル</li>
+</ul>
+</li>
+<li>Developer Site
+
+<ul>
+<li>Google Developer</li>
+<li><a href="https://developers.google.com/">https://developers.google.com/</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>アプリの種類</h2>
+
+<h4>Native App</h4>
+
+<p><img src="https://monosnap.com/file/X3nhrUM7gwFblM6V1kwTh7Dt6sRaHD.png" alt="Alt text" />
+<img src="https://monosnap.com/file/execopTg5FOK7MVR4PMyT8eeyKVjFD.png" alt="Alt text" /></p>
+
+<h4>Hybrid App</h4>
+
+<ul>
+<li>開発ツール
+
+<ul>
+<li>Apache Cordova</li>
+<li>Adobe PhoneGap</li>
+<li>Ionic Framework</li>
+<li>Monaca</li>
+</ul>
+</li>
+<li><a href="https://jq-jo.github.io/blog/2016/08/31/Hybrid-Native-Responsive/">https://jq-jo.github.io/blog/2016/08/31/Hybrid-Native-Responsive/</a></li>
+</ul>
+
+
+<h2>mBaaS (Moblie Backend as a Service)</h2>
+
+<ul>
+<li>mBaaSはApplicationに要求されるいろんなBackendの機能をまとめて提供してくれるサービス</li>
+<li>最もよく使われるサービス
+
+<ul>
+<li>AWS Mobile</li>
+<li>Firebase</li>
+</ul>
+</li>
+<li>提供サービス
+
+<ul>
+<li>ユーザ認証</li>
+<li>データベース</li>
+<li>ストレージ</li>
+<li>プッシュ通知</li>
+<li>analytics</li>
+<li>etc&hellip;</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>サンプルコード</h2>
+
+<ul>
+<li>Webview</li>
+<li>Http通信</li>
+<li>Tab bar Controller</li>
+</ul>
+
+
+<h2>アプリの申請</h2>
+
+<ul>
+<li>iOS
+
+<ul>
+<li>iTunes Connect(<a href="https://itunesconnect.apple.com">https://itunesconnect.apple.com</a>)</li>
+</ul>
+</li>
+<li>Android
+
+<ul>
+<li>Google Play Developer Concole(<a href="https://play.google.com/apps/publish">https://play.google.com/apps/publish</a>)</li>
+</ul>
+</li>
+<li><a href="https://jq-jo.github.io/blog/2016/10/26/mobile-app-sinsa/">https://jq-jo.github.io/blog/2016/10/26/mobile-app-sinsa/</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ドラマチームワークショップ(20170305)]]></title>
